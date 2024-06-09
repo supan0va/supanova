@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supa Nova</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #05060d;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            color: #ff66cc;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .spacer {
+            margin-bottom: 50px;
+        }
+
+        .content {
+            background-color: #0e0f1d;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        footer p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Supa Nova</h1>
+        <p>Welcome to the universe of Supa Nova!</p>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h2>About Me</h2>
+            <p>I'm Supa Nova, your guide to the wonders of space and beyond. Join me on a journey through the cosmos as we explore the mysteries of the universe.</p>
+
+            <h2>Featured Content</h2>
+            <p>Stay tuned for exciting updates and discoveries!</p>
+        </div>
+
+        <div class="spacer"></div>
+
+        <footer>
+            <p>&copy; 2024 Supa Nova. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+
+</html>
